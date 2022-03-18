@@ -24,8 +24,7 @@ if (jQuery) {
 /* $ est l'élément central. Celui-ci sera systématiquement utilisé lorsque du code sera écrit avec jQuery.
 Puis, comme en JavaScript, il est nécessaire de sélectionner l'élément du DOM sur lequel agir.
 Enfin, il faut indiquer quelle méthode utiliser afin de réaliser le traitement souhaité.
-                       $('monSelecteur').methode()
-*/
+                       $('monSelecteur').methode() */
 
 document.querySelector('#content') //en javascript
 $('#content')  //en jquery
